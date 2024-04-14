@@ -24,6 +24,9 @@ By simulating ECGs in MATLAB, researchers and healthcare professionals can gain 
 
 ## Acknowledgments to the Team:
 ISHIT SETIA - 22BLC1039
+
 KADAMBINI TRIVEDI - 22BLC1082
+
 DIVYANSH RAI - 22BLC1106
+
 Together, we've woven lines of code into a symphony of simulation, bringing the heartbeat of ECG to life with MATLAB. Hats off to this dynamic trio for their dedication, brilliance, and sheer awesomeness! 🎩🌟
