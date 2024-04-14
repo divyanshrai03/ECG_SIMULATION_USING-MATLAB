@@ -1,7 +1,6 @@
 %   ECGDEMO    ECG PROCESSING DEMONSTRATION - R-PEAKS DETECTION
 %              
-%   NOTE: Surya modified the code by adding Heart Rate calculation  and
-%         some additional comments. Contact: p.surya1994@gmail.com  
+%   NOTE: 
 %         
 %
 %              This file is a part of a package that contains 5 files:
@@ -13,23 +12,8 @@
 %                     5. readme.txt - description.
 %
 %              The package downloaded from http://www.librow.com
-%              To contact the author of the sample write to Sergey Chernenko:
-%              S.Chernenko@librow.com
-%
-%              To run the demo put
-%
-%                     ecgdemo.m;
-%                     ecgdemowinmax.m;
-%                     ecgdemodata1.mat;
-%                     ecgdemodata2.mat
-%
-%              in MatLab's "work" directory, run MatLab and type in
-%
-%                     >> ecgdemo
-%
-%              The code is property of LIBROW
-%              You can use it on your own
-%              When utilizing credit LIBROW site
+%     
+
 
 %   We are processing two data samples to demonstrate two different situations
 for demo = 1:2:3
@@ -94,7 +78,7 @@ for demo = 1:2:3
             peaks2(data)=1;
         end
     end
-%% This part of the code between the double comments is added by Surya Penmetsa
+
     positions2=find(peaks2);
     distanceBetweenFirstAndLastPeaks = positions2(length(positions2))-positions2(1);
  
@@ -104,7 +88,7 @@ for demo = 1:2:3
     
     disp('Average Heart Rate = ');
     disp(averageHeartRate);
-% The code written by Surya Penmetsa Ends here.
+
 %% 
     
     %   Create figure - stages of processing
