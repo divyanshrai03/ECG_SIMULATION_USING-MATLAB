@@ -8,17 +8,17 @@ The primary function of an ECG is to measure the electrical impulses generated b
 ## ECG SIMULATION WITH MATLAB:
 Simulating an ECG using MATLAB involves creating a model that replicates the electrical activity of the heart and generating corresponding voltage waveforms. Here's a basic outline of how to perform ECG simulation using MATLAB:
 
-Modeling the Heart: Begin by developing a mathematical model of the heart's electrical activity. This model typically involves representing the heart's conduction system, including the sinoatrial (SA) node, atrioventricular (AV) node, bundle of His, and Purkinje fibers.
+1. Modeling the Heart: Begin by developing a mathematical model of the heart's electrical activity. This model typically involves representing the heart's conduction system, including the sinoatrial (SA) node, atrioventricular (AV) node, bundle of His, and Purkinje fibers.
 
-Generating Electrical Signals: Use MATLAB to generate simulated electrical signals that mimic the action potentials produced by different regions of the heart. These signals should reflect the depolarization and repolarization phases of cardiac muscle cells.
+2. Generating Electrical Signals: Use MATLAB to generate simulated electrical signals that mimic the action potentials produced by different regions of the heart. These signals should reflect the depolarization and repolarization phases of cardiac muscle cells.
 
-Signal Processing: Process the simulated electrical signals to simulate the effects of cardiac abnormalities or conditions of interest. For example, introduce disturbances in the signal to simulate arrhythmias or changes in heart rate.
+3 .Signal Processing: Process the simulated electrical signals to simulate the effects of cardiac abnormalities or conditions of interest. For example, introduce disturbances in the signal to simulate arrhythmias or changes in heart rate.
 
-Generating ECG Waveforms: Convert the simulated electrical signals into ECG waveforms using appropriate algorithms. This typically involves applying filters, amplifying the signals, and adding noise to simulate real-world ECG recordings.
+4. Generating ECG Waveforms: Convert the simulated electrical signals into ECG waveforms using appropriate algorithms. This typically involves applying filters, amplifying the signals, and adding noise to simulate real-world ECG recordings.
 
-Visualization and Analysis: Visualize the simulated ECG waveforms using MATLAB's plotting capabilities. Analyze the waveforms to extract relevant parameters such as heart rate, duration of intervals (e.g., PR interval, QT interval), and presence of abnormalities.
+5. Visualization and Analysis: Visualize the simulated ECG waveforms using MATLAB's plotting capabilities. Analyze the waveforms to extract relevant parameters such as heart rate, duration of intervals (e.g., PR interval, QT interval), and presence of abnormalities.
 
-Validation: Validate the simulated ECG against real-world data or clinical standards to ensure its accuracy and reliability.
+6. Validation: Validate the simulated ECG against real-world data or clinical standards to ensure its accuracy and reliability.
 
 By simulating ECGs in MATLAB, researchers and healthcare professionals can gain insights into cardiac physiology, test hypotheses, and develop new diagnostic and therapeutic techniques for cardiac conditions. Additionally, MATLAB's computational capabilities allow for the rapid prototyping and optimization of ECG analysis algorithms, facilitating advancements in cardiac research and clinical practice.
 
@@ -29,4 +29,4 @@ KADAMBINI TRIVEDI - 22BLC1082
 
 DIVYANSH RAI - 22BLC1106
 
-Together, we've woven lines of code into a symphony of simulation, bringing the heartbeat of ECG to life with MATLAB. Hats off to this dynamic trio for their dedication, brilliance, and sheer awesomeness! 🎩🌟
+Together, we've woven lines of code into a symphony of simulation, bringing the heartbeat of ECG to life with MATLAB.🎩🌟
