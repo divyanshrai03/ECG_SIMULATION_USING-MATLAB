@@ -12,7 +12,7 @@ Simulating an ECG using MATLAB involves creating a model that replicates the ele
 
 2. Generating Electrical Signals: Use MATLAB to generate simulated electrical signals that mimic the action potentials produced by different regions of the heart. These signals should reflect the depolarization and repolarization phases of cardiac muscle cells.
 
-3 .Signal Processing: Process the simulated electrical signals to simulate the effects of cardiac abnormalities or conditions of interest. For example, introduce disturbances in the signal to simulate arrhythmias or changes in heart rate.
+3. Signal Processing: Process the simulated electrical signals to simulate the effects of cardiac abnormalities or conditions of interest. For example, introduce disturbances in the signal to simulate arrhythmias or changes in heart rate.
 
 4. Generating ECG Waveforms: Convert the simulated electrical signals into ECG waveforms using appropriate algorithms. This typically involves applying filters, amplifying the signals, and adding noise to simulate real-world ECG recordings.
 
